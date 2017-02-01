@@ -1,8 +1,3 @@
-rint("Hello world");
-print("Hello everybody");
-print("Hello");
-print("Hello my dear frind");
-print("Glad to see you");
 print("Hello world;");
 print("Hello everybody;");
 print("Hello;");
